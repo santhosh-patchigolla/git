@@ -1,6 +1,8 @@
 # git
 about git
 ________________
+
+For better visibility refer manu's repo reg git.
 git - important points and commands
 git : Local Version System
 github , bitbucket , gitlab : Central Version Control System
