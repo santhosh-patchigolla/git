@@ -46,3 +46,10 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
 Merge Conflict :
 A merge conflict occurs when a version of a file has been submitted that is newer than the version of the file you have started to base your changes on. In this blog, we look at what merge conflicts are, how they happen in Git, and how you can avoid them with a few simple tips to streamline your development
 
+
+Git strategy are of two types
+promotion: consist of multiple braches and multiple env's
+relesase : single env 
+
+![image](https://github.com/santhosh-patchigolla/git/assets/53848645/c314c5f4-fa18-43a9-a737-ce82e7ae8cf6)
+
